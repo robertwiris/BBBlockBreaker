@@ -1,1 +1,3 @@
 # BBBlockBreaker
+
+Repositório de estudo;
